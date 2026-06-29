@@ -1,0 +1,6 @@
+{
+  "name": "Altyn Restaurant",
+  "description": "Premium restaurant in Bishkek with an exquisite fusion menu, black-gold aesthetics, multilingual support, and AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
